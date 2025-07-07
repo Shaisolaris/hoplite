@@ -13,3 +13,5 @@ project/boot/
 project/plugins/project/
 credentials.sbt
 .gradle
+config.bat
+node_modules
